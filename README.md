@@ -2,11 +2,6 @@
 
 **Coordenador de TI • Tech Lead • ERP, Infraestrutura & Transformação Digital**
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&hide_border=true"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 📍 São João del-Rei, MG
 
 Líder técnico com experiência em infraestrutura corporativa, desenvolvimento de sistemas, automação de processos e gestão de equipes.
