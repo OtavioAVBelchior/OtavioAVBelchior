@@ -1,79 +1,69 @@
-# Olá! Eu sou o Otávio Belchior 👋
+# Otávio Belchior
 
-**Coordenador de TI • Tech Lead • ERP, Infraestrutura & Transformação Digital**
+**Coordenador de TI • Tech Lead • ERP • Infraestrutura • Automação**
+
 📍 São João del-Rei, MG
 
-Líder técnico com experiência em infraestrutura corporativa, desenvolvimento de sistemas, automação de processos e gestão de equipes. 
+Transformo demandas de negócio em soluções tecnológicas escaláveis.
 
-Atualmente atuo conectando estratégia de negócio e execução tecnológica, transformando demandas da diretoria em soluções escaláveis, com foco em produtividade, eficiência operacional e geração de valor. Especialista na integração entre tecnologias modernas e sistemas corporativos legados.
-
----
-
-## 💻 Tech Stack
-
-### Backend, Automação & Dados
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,ts,python,mysql,postgres" alt="Backend and Database Icons" />
-  </a>
-</p>
-
-### Frontend & Web
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,wordpress,css" alt="Frontend Icons" />
-  </a>
-</p>
-
-### Infraestrutura & OS
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" alt="OS and Infra Icons" />
-  </a>
-</p>
-
-### Sistemas Corporativos & ERP
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS-Protheus-blue?style=for-the-badge)
-![ADVPL](https://img.shields.io/badge/ADVPL-Legacy%20Systems-orange?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de software, automação de processos e liderança técnica de equipes.
 
 ---
 
-## ⚙️ Atuação & Liderança Técnica
+## Tecnologias
 
-- **Infraestrutura Corporativa:** Administração de servidores Linux e Windows, gestão de Active Directory, redes corporativas, segurança, continuidade operacional e suporte ao negócio.
-- **Desenvolvimento & Integrações:** Desenvolvimento de APIs REST, automações de processos internos, e integrações com RD Station, ClickUp e APIs externas, eliminando atividades manuais.
-- **Gestão de Projetos:** Coordenação de equipe, priorização de backlog, e planejamento de iniciativas de transformação digital em alinhamento direto com a diretoria.
+### Desenvolvimento
 
-## 🚀 Diferenciais
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,python,react,mysql,postgres,wordpress&perline=8)](https://skillicons.dev)
 
-- Visão estratégica de negócio aliada à execução técnica "hands-on".
-- Forte atuação em automação e eficiência operacional.
-- Especialidade em criar pontes confiáveis entre sistemas modernos e legados.
-- Comunicação assertiva e direta com a liderança executiva.
+### Infraestrutura
 
-## 📚 Atualmente Focado Em
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,docker,nginx&perline=6)](https://skillicons.dev)
 
-- Inteligência Artificial aplicada à rotina de negócios e desenvolvimento
-- Arquitetura de Sistemas & Governança de TI
-- Dinâmica corporativa, comportamento humano e liderança estratégica
-- Automação Corporativa de ponta a ponta
+### Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4)](https://skillicons.dev)
+
+### ERP & Corporativo
+
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS-Protheus-005CA9?style=flat-square)
+![ADVPL](https://img.shields.io/badge/ADVPL-ERP%20Development-E67E22?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square)
 
 ---
 
-## 🤝 Conecte-se
+## O que faço
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/OtavioVBelchior">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
+- Liderança técnica e gestão de equipes de TI
+- Administração de ambientes Linux e Windows
+- Infraestrutura corporativa e redes
+- Desenvolvimento de APIs e integrações
+- Automação de processos internos
+- ERP TOTVS Protheus e sistemas legados
+- Transformação digital e melhoria operacional
 
-<br>
+---
+
+## Atualmente estudando
+
+- Inteligência Artificial aplicada a negócios
+- Arquitetura de Sistemas
+- Governança de TI
+- Estratégia, liderança e comportamento organizacional
+
+---
+
+## Contato
+
+<a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/OtavioVBelchior">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+---
 
 <p align="center">
-  🚀 Aberto a Novas Oportunidades
+  <i>Construindo soluções, automatizando processos e conectando tecnologia ao negócio.</i>
 </p>
