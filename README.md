@@ -1,6 +1,6 @@
 # 👋 Otavio Belchior
 
-**IT Coordinator & Tech Lead** · Akafloor · São João del-Rei, MG
+**Coordenador de TI & Tech Lead ** · Akafloor · São João del-Rei, MG
 
 > Mais de 5 anos de experiência em infraestrutura, desenvolvimento de sistemas e gestão de equipes. Especialista na intersecção entre liderança executiva e execução técnica — comunicando ROI para a diretoria enquanto arquiteta soluções full-stack.
 
@@ -9,7 +9,7 @@
 ## 🛠️ Stack
 
 `TypeScript` `Node.js` `React` `Python` `PHP` `MySQL`
-`Linux (Fedora)` `WordPress` `Active Directory` `TOTVS Protheus / ADVPL`
+`Linux` `WordPress` `Active Directory` `TOTVS Protheus / ADVPL`
 
 ---
 
