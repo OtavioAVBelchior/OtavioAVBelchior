@@ -1,6 +1,11 @@
 # Otávio Belchior
 
-## Coordenador de TI • Tech Lead • Infraestrutura, Automação e Sistemas Corporativos
+## Coordenador de TI • Tech Lead • ERP, Infraestrutura & Transformação Digital
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 📍 São João del-Rei, MG
 
@@ -10,7 +15,7 @@
 >
 > Especialista na integração entre tecnologias modernas e ambientes corporativos legados, com forte atuação em TOTVS Protheus, automações e transformação digital.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -118,8 +123,14 @@ Experiência prática com Linux em ambientes corporativos, servidores e desenvol
 
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](SEU_GITHUB)
+## 🤝 Vamos nos conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Otávio%20Belchior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/)
+[![GitHub](https://img.shields.io/badge/GitHub-OtavioVBelchior-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OtavioAVBelchior)
+
+---
+
+> 🐧 Linux Enthusiast • 🚀 Open to New Opportunities • 💡 Tecnologia orientada a resultados
 
 ---
 
