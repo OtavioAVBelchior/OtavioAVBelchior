@@ -1,6 +1,6 @@
 # 👋 Otavio Belchior
 
-**Coordenador de TI & Tech Lead ** · Akafloor · São João del-Rei, MG
+**Coordenador de TI & Tech Lead** · Akafloor · São João del-Rei, MG
 
 > Mais de 5 anos de experiência em infraestrutura, desenvolvimento de sistemas e gestão de equipes. Especialista na intersecção entre liderança executiva e execução técnica — comunicando ROI para a diretoria enquanto arquiteta soluções full-stack.
 
@@ -28,4 +28,4 @@
 
 ---
 
-📍 São João del-Rei, MG &nbsp;|&nbsp; 🐧 Linux &nbsp;|&nbsp;
+📍 São João del-Rei, MG &nbsp;|&nbsp; 🐧 Linux &nbsp;
