@@ -18,7 +18,7 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ### Frameworks & Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,react,wordpress&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,react,wordpress,tailwind&perline=5)](https://skillicons.dev)
 
 ### Banco de Dados
 
@@ -28,15 +28,16 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,docker&perline=4)](https://skillicons.dev)
 
-### Ferramentas
+### Ferramentas & IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,sublime&perline=6)](https://skillicons.dev)
 
 ### ERP & Corporativo
 
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS-Protheus-005CA9?style=flat-square)
 ![ADVPL](https://img.shields.io/badge/ADVPL-ERP%20Development-E67E22?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square)
+
 ---
 
 ## O que faço
