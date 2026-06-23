@@ -12,17 +12,13 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ## Tecnologias
 
-### Desenvolvimento
+### Linguagens & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,python,react,mysql,postgres,wordpress&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,python,wordpress,mysql&perline=9)](https://skillicons.dev)
 
-### Infraestrutura
+### Infraestrutura & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,docker,nginx&perline=6)](https://skillicons.dev)
-
-### Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,vscode,sublime&perline=8)](https://skillicons.dev)
 
 ### ERP & Corporativo
 
@@ -62,8 +58,6 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 <a href="https://github.com/OtavioVBelchior">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
----
 
 <p align="center">
   <i>Construindo soluções, automatizando processos e conectando tecnologia ao negócio.</i>
