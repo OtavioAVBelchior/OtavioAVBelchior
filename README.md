@@ -1,11 +1,10 @@
 # Otavio Belchior
 
-**IT Coordinator & Tech Lead**  
+**Coordenador de TI & Tech Lead**  
 Akafloor · São João del-Rei, MG
 
 > Líder técnico com mais de 5 anos de experiência em infraestrutura de TI, desenvolvimento de sistemas e gestão de equipes. Especialista em alinhar estratégia de negócio com execução técnica, traduzindo demandas da diretoria em soluções escaláveis, com foco em ROI e impacto mensurável. Forte diferencial na combinação de stack moderna com domínio de sistemas legados TOTVS Protheus / ADVPL.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -15,7 +14,6 @@ Akafloor · São João del-Rei, MG
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,14 +26,12 @@ Akafloor · São João del-Rei, MG
 ### Sistemas & Gestão
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-E30613?style=for-the-badge&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
 
 ## 📦 Atuação na Akafloor
 
 - **Infraestrutura de TI** — Gestão de redes, servidores, Active Directory e ambientes corporativos
-- **ERP SIGA (TOTVS Protheus)** — Liderança técnica do projeto com 83% de conclusão (72 de 87 rotinas implementadas) gerenciando equipe de 2 desenvolvedores
 - **Presença Digital** — Liderança do site institucional (WordPress), com foco em UX, conversão e performance
 - **Automações e Integrações** — Desenvolvimento de integrações com RD Station, APIs externas e ClickUp, otimizando processos operacionais
 
@@ -50,6 +46,5 @@ Akafloor · São João del-Rei, MG
 ---
 
 📍 São João del-Rei, MG  
-🐧 Fedora Linux enthusiast  
-📝 Obsidian user  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) enthusiast  
 🔗 Open to new opportunities
