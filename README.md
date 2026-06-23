@@ -14,7 +14,7 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ### Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,python,react,mysql,postgres,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,python,react,mysql,postgres,wordpress&perline=9)](https://skillicons.dev)
 
 ### Infraestrutura
 
@@ -22,7 +22,7 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime&perline=4)](https://skillicons.dev)
 
 ### ERP & Corporativo
 
@@ -58,6 +58,7 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="https://github.com/OtavioVBelchior">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
