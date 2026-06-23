@@ -75,5 +75,5 @@ Atualmente atuo conectando estratégia de negócio e execução tecnológica, tr
 <br>
 
 <p align="center">
-  🚀 Aberto a Novas Oportunidades • 🏍️ Entusiasta de duas rodas
+  🚀 Aberto a Novas Oportunidades
 </p>
