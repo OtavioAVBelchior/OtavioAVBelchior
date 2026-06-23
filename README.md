@@ -5,11 +5,9 @@
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=OtavioVBelchior&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 📍 São João del-Rei, MG
 
