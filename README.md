@@ -74,20 +74,22 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ## Contato
 
+<a href="mailto:otavioavbelchior@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
-
   <img src="https://skillicons.dev/icons?i=linkedin" />
-
 </a>
 
 <a href="https://github.com/OtavioVBelchior">
-
   <img src="https://skillicons.dev/icons?i=github" />
-
 </a>
 
+<br><br>
+
+📧 **otavioavbelchior@gmail.com**
+
 <p align="center">
-
   <i>Construindo soluções, automatizando processos e conectando tecnologia ao negócio.</i>
-
 </p>
