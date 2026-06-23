@@ -12,20 +12,31 @@ Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de
 
 ## Tecnologias
 
-### Linguagens & Frameworks
+### Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,python,wordpress,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,python&perline=4)](https://skillicons.dev)
 
-### Infraestrutura & Ferramentas
+### Frameworks & Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,vscode,sublime&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,react,wordpress&perline=4)](https://skillicons.dev)
+
+### Banco de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
+
+### Infraestrutura
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,docker&perline=4)](https://skillicons.dev)
+
+### Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime&perline=4)](https://skillicons.dev)
 
 ### ERP & Corporativo
 
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS-Protheus-005CA9?style=flat-square)
 ![ADVPL](https://img.shields.io/badge/ADVPL-ERP%20Development-E67E22?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square)
-
 ---
 
 ## O que faço
