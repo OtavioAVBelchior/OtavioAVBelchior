@@ -46,7 +46,7 @@ Formado em **Cibersegurança** e graduando em **Engenharia de Software**, atuo c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioAVBelchior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioAVBelchior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAVBelchior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
