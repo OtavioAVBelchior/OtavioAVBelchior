@@ -1,54 +1,151 @@
-<h1 align="center">Otávio Belchior</h1>
-<h3 align="center">Coordenador de TI | Engenharia de Software | Estratégia de Operações</h3>
+# 👨🏻‍💻 Otávio Belchior
 
-<p align="center">
-  Orquestrando infraestrutura, desenvolvimento de software e automação para sustentar operações críticas de negócio. Atuo na intersecção entre a gestão estratégica de TI, governança corporativa e a engenharia de software de alta complexidade.
+**`Coordenador de TI & Tech Lead`**
+
+Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou formado em Cibersegurança e graduando em Engenharia de Software. Atualmente, atuo na orquestração de infraestrutura híbrida (Ubuntu/Windows) e na liderança de equipes de engenharia. Minha especialidade é transformar demandas complexas de negócios em soluções escaláveis, liderando desde automações industriais até a migração de arquiteturas ERP (TOTVS Protheus) para tecnologias modernas. Utilizo fluxos de desenvolvimento guiados por IA para maximizar a eficiência técnica e operacional.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:otavioavbelchior@gmail.com">
+        <img 
+            alt="Email" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/OtavioVBelchior?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/OtavioVBelchior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/OtavioVBelchior?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/OtavioVBelchior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 🎯 Foco Operacional e Liderança
+### 🤖 Linguagens e Tecnologias
 
-- **Arquitetura e Migração de Sistemas:** Liderança técnica na transição de sistemas ERP legados (TOTVS Protheus / ADVPL) para arquiteturas modernas, escaláveis e sob medida.
-- **Automação Industrial e Integração:** Desenho e implementação de soluções avançadas envolvendo sensores e visão computacional aplicadas diretamente à cadeia produtiva.
-- **Governança de Infraestrutura Híbrida:** Administração de redes e servidores em ambientes híbridos (Windows 11 / Ubuntu), garantindo estabilidade e alta disponibilidade operacional.
-- **Orquestração de Equipes:** Gestão pragmática de orçamentos e fluxos de trabalho, liderando analistas de processos e desenvolvedores rumo à eficiência máxima.
-- **Desenvolvimento Orientado por IA:** Estruturação de fluxos de trabalho utilizando LLMs e agentes autônomos operando via terminal, acelerando ciclos de entrega e refatoração.
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Windows" 
+    title="Windows 11"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-### 💻 Stack Tecnológico e Ecossistema
+### 📊 Estatísticas
 
-**Engenharia de Software & Dados**  
-[![Skills](https://skillicons.dev/icons?i=java,ts,react,python,nodejs,php,postgres,mysql&perline=8)](https://skillicons.dev)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-**Infraestrutura & Ferramentas**  
-[![Skills](https://skillicons.dev/icons?i=ubuntu,windows,docker,git,github,vscode&perline=6)](https://skillicons.dev)
-
-**ERP, Corporativo & AI Workflows**  
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-005CA9?style=flat-square)
-![ADVPL](https://img.shields.io/badge/ADVPL_ERP_Dev-E67E22?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
-![AI Driven Dev](https://img.shields.io/badge/AI_Agent_Orchestration-1E1E1E?style=flat-square)
-
----
-
-### 📊 Relatório de Execução Técnica
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</div>
-
----
-
-### 🔗 Contato e Posicionamento
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:otavioavbelchior@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img 
+      align="left" 
+      alt="GitHub Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
