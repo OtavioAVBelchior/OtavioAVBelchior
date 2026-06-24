@@ -37,7 +37,25 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 ---
 
-### 🤖 Linguagens, Frameworks e Ferramentas
+### 🤖 Linguagens
+
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"
+/>
 
 <img 
     align="left" 
@@ -48,13 +66,20 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
 />
 
+<br/>
+<br/>
+
+---
+
+### ⚙️ Frameworks & Runtime
+
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="Laravel"
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"
 />
 
 <img 
@@ -75,33 +100,12 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"
 />
 
-<img 
-    align="left" 
-    alt="Laravel"
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"
-/>
+<br/>
+<br/>
 
-<!-- PHP (mantido devicon, como você pediu antes) -->
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
+---
 
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"
-/>
+### 🖥️ Sistemas & Ferramentas
 
 <img 
     align="left" 
