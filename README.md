@@ -38,7 +38,7 @@ Formado em **Cibersegurança** e graduando em **Engenharia de Software**, atuo c
 
 | Infraestrutura & Ferramentas | IDEs & Editores |
 |:---:|:---:|
-| ![](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,nginx) | ![](https://skillicons.dev/icons?i=vscode,phpstorm,webstorm)&nbsp;<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" width="46" /> |
+| ![](https://skillicons.dev/icons?i=linux,ubuntu,docker,git) | ![](https://skillicons.dev/icons?i=vscode,phpstorm,webstorm)&nbsp;<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" width="46" /> |
 
 ---
 
