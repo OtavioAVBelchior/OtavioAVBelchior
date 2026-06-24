@@ -37,7 +37,7 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens, Frameworks e Ferramentas
 
 <img 
     align="left" 
@@ -50,7 +50,16 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="React" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"
+/>
+
+<img 
+    align="left" 
+    alt="React"
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
@@ -59,7 +68,7 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="NodeJS" 
+    alt="Node.js"
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
@@ -68,26 +77,17 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="Laravel"
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"
 />
 
+<!-- PHP (mantido devicon, como você pediu antes) -->
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"
-/>
-
-<!-- PHP (mantido como você tinha antes) -->
-<img 
-    align="left" 
-    alt="PHP" 
+    alt="PHP"
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
@@ -105,7 +105,16 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="Ubuntu" 
+    alt="Linux"
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Ubuntu"
     title="Ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
@@ -114,16 +123,7 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="Windows" 
-    title="Windows 11"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
+    alt="Docker"
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
@@ -132,11 +132,29 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
-    alt="Git" 
+    alt="Git"
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
+/>
+
+<img 
+    align="left" 
+    alt="PhpStorm"
+    title="PhpStorm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="WebStorm"
+    title="WebStorm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
 />
 
 <br/>
