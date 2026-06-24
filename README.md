@@ -1,83 +1,54 @@
-# Otávio Belchior
-
-**Coordenador de TI • Tech Lead • ERP • Infraestrutura • Automação**
-
-📍 São João del-Rei, MG
-
-Transformo demandas de negócio em soluções tecnológicas escaláveis.
-
-Atuação focada em infraestrutura corporativa, sistemas ERP, desenvolvimento de software, automação de processos e liderança técnica de equipes.
-
----
-
-## Tecnologias
-
-### Desenvolvimento
-
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,python,laravel,nodejs,react,wordpress,tailwind&perline=9)](https://skillicons.dev)
-
-### Infraestrutura & Dados
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,linux,ubuntu,windows,docker&perline=5)](https://skillicons.dev)
-
-### Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,sublime&perline=6)](https://skillicons.dev)
-
-### ERP & Corporativo
-
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS-Protheus-005CA9?style=flat-square)
-![ADVPL](https://img.shields.io/badge/ADVPL-ERP%20Development-E67E22?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square)
-
----
-
-## O que faço
-
-- Liderança técnica e gestão de equipes de TI
-
-- Administração de ambientes Linux e Windows
-
-- Infraestrutura corporativa e redes
-
-- Desenvolvimento de APIs e integrações
-
-- Automação de processos internos
-
-- ERP TOTVS Protheus e sistemas legados
-
-- Transformação digital e melhoria operacional
-
----
-
-## Atualmente estudando
-
-- Inteligência Artificial aplicada a negócios
-
-- Arquitetura de Sistemas
-
-- Governança de TI
-
-- Estratégia, liderança e comportamento organizacional
-
----
-
-## Contato
-
-<p align="left">
-  <a href="mailto:otavioavbelchior@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/OtavioVBelchior">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-**E-mail:** <a href="mailto:otavioavbelchior@gmail.com">otavioavbelchior@gmail.com</a>
+<h1 align="center">Otávio Belchior</h1>
+<h3 align="center">Coordenador de TI | Engenharia de Software | Estratégia de Operações</h3>
 
 <p align="center">
-  <i>Construindo soluções, automatizando processos e conectando tecnologia ao negócio.</i>
+  Orquestrando infraestrutura, desenvolvimento de software e automação para sustentar operações críticas de negócio. Atuo na intersecção entre a gestão estratégica de TI, governança corporativa e a engenharia de software de alta complexidade.
+</p>
+
+---
+
+### 🎯 Foco Operacional e Liderança
+
+- **Arquitetura e Migração de Sistemas:** Liderança técnica na transição de sistemas ERP legados (TOTVS Protheus / ADVPL) para arquiteturas modernas, escaláveis e sob medida.
+- **Automação Industrial e Integração:** Desenho e implementação de soluções avançadas envolvendo sensores e visão computacional aplicadas diretamente à cadeia produtiva.
+- **Governança de Infraestrutura Híbrida:** Administração de redes e servidores em ambientes híbridos (Windows 11 / Ubuntu), garantindo estabilidade e alta disponibilidade operacional.
+- **Orquestração de Equipes:** Gestão pragmática de orçamentos e fluxos de trabalho, liderando analistas de processos e desenvolvedores rumo à eficiência máxima.
+- **Desenvolvimento Orientado por IA:** Estruturação de fluxos de trabalho utilizando LLMs e agentes autônomos operando via terminal, acelerando ciclos de entrega e refatoração.
+
+---
+
+### 💻 Stack Tecnológico e Ecossistema
+
+**Engenharia de Software & Dados**  
+[![Skills](https://skillicons.dev/icons?i=java,ts,react,python,nodejs,php,postgres,mysql&perline=8)](https://skillicons.dev)
+
+**Infraestrutura & Ferramentas**  
+[![Skills](https://skillicons.dev/icons?i=ubuntu,windows,docker,git,github,vscode&perline=6)](https://skillicons.dev)
+
+**ERP, Corporativo & AI Workflows**  
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-005CA9?style=flat-square)
+![ADVPL](https://img.shields.io/badge/ADVPL_ERP_Dev-E67E22?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![AI Driven Dev](https://img.shields.io/badge/AI_Agent_Orchestration-1E1E1E?style=flat-square)
+
+---
+
+### 📊 Relatório de Execução Técnica
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</div>
+
+---
+
+### 🔗 Contato e Posicionamento
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:otavioavbelchior@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
