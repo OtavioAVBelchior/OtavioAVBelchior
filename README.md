@@ -181,18 +181,20 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&cache_seconds=1800)" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
   />
 
-  <img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    align="left"
+    alt="GitHub Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
   />
 </p>
+
+<br clear="both">
