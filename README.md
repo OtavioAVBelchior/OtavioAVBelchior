@@ -45,87 +45,98 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
 />
+
 <img 
     align="left" 
     alt="React" 
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="NodeJS" 
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"
 />
+
+<!-- PHP (mantido como você tinha antes) -->
 <img 
     align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
+
 <img 
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="Ubuntu" 
     title="Ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="Windows" 
     title="Windows 11"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg"
 />
+
 <img 
     align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"
 />
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
 />
 
 <br/>
