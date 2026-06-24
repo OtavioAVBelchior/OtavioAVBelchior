@@ -141,6 +141,24 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <img 
     align="left" 
+    alt="VS Code"
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Sublime Text"
+    title="Sublime Text"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg"
+/>
+
+<img 
+    align="left" 
     alt="PhpStorm"
     title="PhpStorm"
     width="30px" 
