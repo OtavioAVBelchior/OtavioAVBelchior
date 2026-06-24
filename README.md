@@ -44,20 +44,18 @@ Formado em **Cibersegurança** e graduando em **Engenharia de Software**, atuo c
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OtavioAVBelchior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAVBelchior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioAVBelchior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAVBelchior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<p align="center">
+  <img width="96%" src="https://streak-stats.demolab.com/?user=OtavioAVBelchior&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=OtavioAVBelchior&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAVBelchior&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAVBelchior&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+</p>
 
 ---
 
