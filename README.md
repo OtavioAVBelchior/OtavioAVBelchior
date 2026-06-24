@@ -42,6 +42,13 @@ Formado em **Cibersegurança** e graduando em **Engenharia de Software**, atuo c
 
 ---
 
+## 🚀 Projetos em Destaque
+
+**[GNOME Extensions Maintainer Hub](https://github.com/OtavioAVBelchior/gnome-extensions-hub)**  
+Uma plataforma completa construída com **Laravel 11, Filament e TailwindCSS**, desenvolvida do zero para facilitar a vida de mantenedores de extensões do GNOME. Ela integra e sincroniza automaticamente *Issues* e *Pull Requests* do GitHub e GitLab em um único painel inteligente.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
