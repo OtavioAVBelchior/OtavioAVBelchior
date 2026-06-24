@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Otávio+Belchior+👋;Tech+Lead+%7C+Coordenador+de+TI;ERP+TOTVS+Protheus+%7C+Infraestrutura;Automação+%7C+Open+Source+❤️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Ot%C3%A1vio+Belchior+%F0%9F%91%8B;Tech+Lead+%7C+Coordenador+de+TI;ERP+TOTVS+Protheus+%7C+Infraestrutura;Automa%C3%A7%C3%A3o+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
