@@ -1,200 +1,65 @@
 # 👨🏻‍💻 Otávio Belchior
 
-**`Coordenador de TI & Tech Lead`**
+**Coordenador de TI • Tech Lead • ERP Protheus • Infraestrutura • Automação • Open Source**
 
-Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou formado em Cibersegurança e graduando em Engenharia de Software. Atualmente, atuo na orquestração de infraestrutura híbrida (Ubuntu/Windows) e na liderança de equipes de engenharia. Minha especialidade é transformar demandas complexas de negócios em soluções escaláveis, liderando desde automações industriais até a migração de arquiteturas ERP (TOTVS Protheus) para tecnologias modernas. Utilizo fluxos de desenvolvimento guiados por IA para maximizar a eficiência técnica e operacional.
+📍 São João del-Rei, MG, Brasil
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:otavioavbelchior@gmail.com">
-        <img 
-            alt="Email" 
-            title="Entre em contato por e-mail" 
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/OtavioVBelchior?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OtavioVBelchior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/OtavioVBelchior?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OtavioVBelchior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+Sou formado em Cibersegurança e graduando em Engenharia de Software.  
+Atuo com liderança técnica, infraestrutura híbrida Linux/Windows, ERP TOTVS Protheus, automação de processos e desenvolvimento de software.
+
+Transformo demandas complexas de negócio em soluções escaláveis, conduzindo projetos da arquitetura à entrega com foco em eficiência, estabilidade e resultado.
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:otavioavbelchior@gmail.com">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OtavioVBelchior">
+    <img src="https://img.shields.io/github/followers/OtavioVBelchior?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
----
+## Tecnologias
 
-### 🤖 Linguagens
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts" />
+</p>
 
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
-/>
+### Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs" />
+</p>
 
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"
-/>
+### Sistemas e Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,vscode,phpstorm,webstorm" />
+</p>
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
-/>
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" width="48" />
+</p>
 
-<br/>
-<br/>
+## Comunidade e Open Source
 
-### ⚙️ Frameworks
+Tenho atuação ativa na comunidade GNOME e no ecossistema Linux, contribuindo com troca de conhecimento, suporte e evolução de projetos livres.
 
-<img 
-    align="left" 
-    alt="Laravel"
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"
-/>
+🔗 [Meu perfil no GNOME Extensions](https://extensions.gnome.org/accounts/profile/OtavioAVBelchior)
 
-<img 
-    align="left" 
-    alt="React"
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"
-/>
+Acredito que open source é colaboração, aprendizado contínuo e impacto real em ferramentas que usamos todos os dias.
 
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"
-/>
-
-<br/>
-<br/>
-
-### 🖥️ Sistemas & Ferramentas
-
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Ubuntu"
-    title="Ubuntu"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
-/>
-
-<img 
-    align="left" 
-    alt="VS Code"
-    title="VS Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Sublime Text"
-    title="Sublime Text"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="PhpStorm"
-    title="PhpStorm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="WebStorm"
-    title="WebStorm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+## GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioVBelchior&theme=tokyonight"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OtavioVBelchior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioVBelchior&layout=compact&langs_count=8&theme=tokyonight"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioVBelchior&theme=tokyonight&hide_border=true" />
 </p>
+
