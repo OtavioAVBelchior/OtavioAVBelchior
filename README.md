@@ -69,9 +69,7 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 <br/>
 <br/>
 
----
-
-### ⚙️ Frameworks & Runtime
+### ⚙️ Frameworks
 
 <img 
     align="left" 
@@ -102,8 +100,6 @@ Me chamo Otávio Belchior, tenho 22 anos e atuo em São João del-Rei, MG. Sou f
 
 <br/>
 <br/>
-
----
 
 ### 🖥️ Sistemas & Ferramentas
 
