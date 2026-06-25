@@ -59,14 +59,6 @@ Uma plataforma completa construída com **Laravel 11, Filament e TailwindCSS**, 
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OtavioAVBelchior&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="96%" src="https://streak-stats.demolab.com/?user=OtavioAVBelchior&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAVBelchior&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
-</p>
-
 ---
 
 ## 🐧 Comunidade & Open Source
