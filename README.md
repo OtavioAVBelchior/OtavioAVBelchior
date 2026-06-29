@@ -17,11 +17,21 @@
 
 Sou **Tech Lead** e **Coordenador de TI**, formado em **Cibersegurança** e graduando em **Engenharia de Software**.
 
-Atuo no desenvolvimento de software, infraestrutura Linux/Windows, ERP **TOTVS Protheus**, DevOps, automação de processos e arquitetura de soluções corporativas.
+Atuo com desenvolvimento de software, infraestrutura Linux/Windows, ERP **TOTVS Protheus**, DevOps, automação de processos e arquitetura de soluções corporativas.
 
 Também contribuo ativamente para projetos **Open Source**, principalmente no ecossistema **GNOME** e Linux.
 
 📍 **São João del-Rei • Minas Gerais • Brasil**
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,nodejs,react,docker,linux,ubuntu,git,github,vscode,phpstorm&perline=7"/>
+
+</div>
 
 ---
 
@@ -35,19 +45,17 @@ Também contribuo ativamente para projetos **Open Source**, principalmente no ec
 
 </div>
 
-Plataforma desenvolvida do zero utilizando **Laravel 11**, **Filament** e **TailwindCSS**, criada para facilitar o trabalho dos mantenedores de extensões do GNOME.
+Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS**, criada para facilitar o trabalho dos mantenedores de extensões do GNOME.
 
-### Principais recursos
+### Recursos
 
-- 🔄 Sincronização automática entre GitHub e GitLab
-- 📋 Dashboard inteligente para Issues e Pull Requests
-- 🚀 Arquitetura moderna utilizando Laravel 11
-- 🎨 Interface construída com Filament + TailwindCSS
-- ⚡ Alto desempenho e foco em produtividade
+- 🔄 Sincronização entre GitHub e GitLab
+- 📋 Dashboard para Issues e Pull Requests
+- ⚡ Laravel 11 + Filament
+- 🎨 TailwindCSS
+- 🚀 Arquitetura moderna
 
-🔗 **Repositório**
-
-https://github.com/OtavioAVBelchior/gnome-extensions-hub
+🔗 https://github.com/OtavioAVBelchior/gnome-extensions-hub
 
 ---
 
@@ -75,31 +83,6 @@ https://github.com/OtavioAVBelchior/gnome-extensions-hub
 
 ---
 
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,nodejs,react,docker,linux,ubuntu,git,github,vscode,phpstorm&perline=7"/>
-
-</div>
-
----
-
-# 🏢 Experiência
-
-- 💼 Tech Lead
-- 🏢 Coordenador de TI
-- 🖥️ ERP TOTVS Protheus
-- ☁️ Infraestrutura Linux e Windows
-- 🔐 Cibersegurança
-- 🚀 DevOps
-- ⚙️ Automação de Processos
-- 🏗️ Arquitetura de Software
-- 📦 APIs REST
-- 🐳 Docker
-
----
-
 # 🐧 Open Source
 
 Tenho atuação ativa na comunidade **GNOME** e no ecossistema Linux.
@@ -112,21 +95,7 @@ Tenho atuação ativa na comunidade **GNOME** e no ecossistema Linux.
 - Automação
 - Ferramentas para desenvolvedores
 
-🔗 Perfil GNOME
-
-https://extensions.gnome.org/accounts/profile/OtavioAVBelchior
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
-
-</div>
+🔗 https://extensions.gnome.org/accounts/profile/OtavioAVBelchior
 
 ---
 
