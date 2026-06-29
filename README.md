@@ -1,75 +1,49 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+sou+Ot%C3%A1vio+Belchior+%F0%9F%91%8B;Tech+Lead+%7C+Coordenador+de+TI;ERP+TOTVS+Protheus+%7C+Infraestrutura;Automa%C3%A7%C3%A3o+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+sou+Ot%C3%A1vio+Belchior+%F0%9F%91%8B;Tech+Lead+%7C+Coordenador+de+TI;ERP+TOTVS+Protheus+%7C+Infraestrutura;Automa%C3%A7%C3%A3o+%7C+Open+Source" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-augusto-belchior-7b9a51111/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/OtavioAVBelchior?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/OtavioAVBelchior)
-![Profile Views](https://komarev.com/ghpvc/?username=OtavioAVBelchior&style=for-the-badge&color=A78BFA&label=VISITAS)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
+[![Followers](https://img.shields.io/github/followers/OtavioAVBelchior?style=for-the-badge&logo=github)](https://github.com/OtavioAVBelchior)
+![Views](https://komarev.com/ghpvc/?username=OtavioAVBelchior&style=for-the-badge&color=A78BFA)
 
 </div>
 
----
-
-# 👋 Sobre mim
+## Olá 👋
 
 Sou **Tech Lead** e **Coordenador de TI**, formado em **Cibersegurança** e graduando em **Engenharia de Software**.
 
-Atuo com desenvolvimento de software, infraestrutura Linux/Windows, ERP **TOTVS Protheus**, DevOps, automação de processos e arquitetura de soluções corporativas.
+Atuo principalmente com desenvolvimento em **Laravel**, infraestrutura Linux/Windows, **ERP TOTVS Protheus**, automação de processos e arquitetura de soluções.
 
-Também contribuo ativamente para projetos **Open Source**, principalmente no ecossistema **GNOME** e Linux.
+Também contribuo com projetos Open Source voltados ao ecossistema **GNOME** e Linux.
 
-📍 **São João del-Rei • Minas Gerais • Brasil**
+📍 São João del-Rei • MG • Brasil
 
----
-
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,nodejs,react,docker,linux,ubuntu,git,github,vscode,phpstorm&perline=7"/>
-
-</div>
-
----
-
-# 🚀 Projeto em Destaque
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/OtavioAVBelchior/gnome-extensions-hub/main/public/logo.svg" width="90"/>
-
-## GNOME Extensions Maintainer Hub
-
-</div>
-
-Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS**, criada para centralizar e sincronizar automaticamente Issues e Pull Requests do GitHub e GitLab em um único painel para mantenedores de extensões do GNOME.
-
-### Recursos
-
-- 🔄 Sincronização GitHub ↔ GitLab
-- 📋 Dashboard inteligente
-- ⚡ Laravel 11 + Filament
-- 🎨 TailwindCSS
-- 🚀 Arquitetura moderna
-
-➡️ https://github.com/OtavioAVBelchior/gnome-extensions-hub
-
----
-
-# 🏆 Conquistas
+## Tecnologias
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OtavioAVBelchior&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,python,nodejs,react,docker,linux,ubuntu,git,github,vscode,phpstorm&perline=7"/>
 
 </p>
 
----
+## Projeto em destaque
 
-# 📊 GitHub
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/OtavioAVBelchior/gnome-extensions-hub/main/public/logo.svg" width="80">
+
+### GNOME Extensions Maintainer Hub
+
+</div>
+
+Aplicação construída em **Laravel 11**, **Filament** e **TailwindCSS** para centralizar a gestão de Issues e Pull Requests de extensões do GNOME, integrando GitHub e GitLab em um único painel.
+
+➡️ https://github.com/OtavioAVBelchior/gnome-extensions-hub
+
+## GitHub
 
 <p align="center">
 
@@ -91,21 +65,17 @@ Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS*
 
 </p>
 
----
+## Open Source
 
-# 🐧 Open Source
+Contribuo com projetos da comunidade GNOME e desenvolvo ferramentas para automação e produtividade.
 
-Tenho atuação ativa na comunidade **GNOME** e no ecossistema Linux.
-
-- 🐧 GNOME
-- 💙 Linux
-- ⚡ Laravel
-- 🔄 Automação
-- 🛠️ Ferramentas para desenvolvedores
+- GNOME
+- Linux
+- Laravel
+- APIs
+- Automação
 
 🔗 https://extensions.gnome.org/accounts/profile/OtavioAVBelchior
-
----
 
 <div align="center">
 
