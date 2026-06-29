@@ -41,21 +41,31 @@ Também contribuo ativamente para projetos **Open Source**, principalmente no ec
 
 <img src="https://raw.githubusercontent.com/OtavioAVBelchior/gnome-extensions-hub/main/public/logo.svg" width="90"/>
 
-## GITHUB Extensions Maintainer Hub
+## GNOME Extensions Maintainer Hub
 
 </div>
 
-Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS**, criada para facilitar o trabalho dos mantenedores de extensões do GNOME.
+Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS**, criada para centralizar e sincronizar automaticamente Issues e Pull Requests do GitHub e GitLab em um único painel para mantenedores de extensões do GNOME.
 
 ### Recursos
 
-- 🔄 Sincronização entre GitHub e GitLab
-- 📋 Dashboard para Issues e Pull Requests
+- 🔄 Sincronização GitHub ↔ GitLab
+- 📋 Dashboard inteligente
 - ⚡ Laravel 11 + Filament
 - 🎨 TailwindCSS
 - 🚀 Arquitetura moderna
 
-🔗 https://github.com/OtavioAVBelchior/gnome-extensions-hub
+➡️ https://github.com/OtavioAVBelchior/gnome-extensions-hub
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OtavioAVBelchior&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
@@ -87,13 +97,11 @@ Plataforma desenvolvida utilizando **Laravel 11**, **Filament** e **TailwindCSS*
 
 Tenho atuação ativa na comunidade **GNOME** e no ecossistema Linux.
 
-### Áreas de contribuição
-
-- GNOME
-- Linux
-- Laravel
-- Automação
-- Ferramentas para desenvolvedores
+- 🐧 GNOME
+- 💙 Linux
+- ⚡ Laravel
+- 🔄 Automação
+- 🛠️ Ferramentas para desenvolvedores
 
 🔗 https://extensions.gnome.org/accounts/profile/OtavioAVBelchior
 
