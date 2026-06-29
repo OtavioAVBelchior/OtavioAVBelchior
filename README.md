@@ -13,7 +13,7 @@
 
 ## Olá 👋
 
-Sou **Tech Lead** e **Coordenador de TI**, formado em **Cibersegurança** e graduando em **Engenharia de Software**.
+Sou **Coordenador de TI**, formado em **Cibersegurança** e graduando em **Engenharia de Software**.
 
 Atuo principalmente com desenvolvimento em **Laravel**, infraestrutura Linux/Windows, **ERP TOTVS Protheus**, automação de processos e arquitetura de soluções.
 
@@ -35,7 +35,7 @@ Também contribuo com projetos Open Source voltados ao ecossistema **GNOME** e L
 
 <img src="https://raw.githubusercontent.com/OtavioAVBelchior/gnome-extensions-hub/main/public/logo.svg" width="80">
 
-### GNOME Extensions Maintainer Hub
+### GITHUB Extensions Maintainer Hub
 
 </div>
 
