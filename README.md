@@ -47,7 +47,7 @@ Aplicação construída em **Laravel 11**, **Filament** e **TailwindCSS** para c
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OtavioAVBelchior&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://ghstats.dev/api/top-langs?username=OtavioAVBelchior&theme=tokyonight"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=OtavioAVBelchior&theme=tokyonight&hide_border=true"/>
 
