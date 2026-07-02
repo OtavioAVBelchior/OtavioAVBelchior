@@ -33,10 +33,16 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           
-          # IN-DEPTH: É ISSO QUE RESOLVE O PROBLEMA!
-          # Ao invés de olhar apenas pros seus repos, ele analisa o seu histórico
-          # de commits (incluindo repositórios de organizações e projetos onde
-          # você colaborou).
+          # IN-DEPTH: É ISSO QUE RESOLVE O PROBLEMA DAS ORGANIZAÇÕES!
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 60
+          # Aumentamos o limite para analisar mais repositórios e commits antigos (assim pegamos seu PHP)
+          plugin_languages_analysis_timeout: 120
+          commits_authoring: OtavioAVBelchior, otavioavbelchior@gmail.com
           plugin_languages_categories: programming
+          
+          # Estilização CSS para forçar o fundo do Dracula e deixar parecido com os outros cards
+          extras_css: |
+            svg { background-color: #282a36 !important; border-radius: 10px !important; }
+            h2, h3 { color: #bd93f9 !important; }
+            .field, .field svg { color: #f8f8f2 !important; fill: #f8f8f2 !important; }
+            .language.details small { color: #6272a4 !important; }
