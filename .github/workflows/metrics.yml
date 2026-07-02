@@ -1,0 +1,42 @@
+name: GitHub Metrics
+on:
+  # Roda a cada 24h automaticamente
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente
+  workflow_dispatch:
+  # Roda sempre que houver um push na main
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # O Token precisa ser criado com as permissões 'repo' e 'read:org'
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Arquivo gerado
+          filename: github-metrics-languages.svg
+          
+          # Tema para combinar com o seu dracula
+          theme: dracula
+          
+          # Desabilita estatísticas base para focar nas linguagens
+          base: ""
+          
+          # Plugin de Linguagens
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          
+          # IN-DEPTH: É ISSO QUE RESOLVE O PROBLEMA!
+          # Ao invés de olhar apenas pros seus repos, ele analisa o seu histórico
+          # de commits (incluindo repositórios de organizações e projetos onde
+          # você colaborou).
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_categories: programming

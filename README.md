@@ -67,8 +67,8 @@ Aplicação desenvolvida em **Laravel 11**, **Filament PHP** e **TailwindCSS** p
 
 <div align="center">
 
-<!-- LADO A LADO: Most Used Languages e Current Streak -->
-<img width="49%" src="https://github-readme-stats-opal-sigma-24.vercel.app/api/top-langs/?username=OtavioAVBelchior&layout=compact&langs_count=8&theme=dracula&title_color=A78BFA&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true"/>
+<!-- LADO A LADO: Most Used Languages (Metrics) e Current Streak -->
+<img width="49%" src="https://raw.githubusercontent.com/OtavioAVBelchior/OtavioAVBelchior/main/github-metrics-languages.svg"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=OtavioAVBelchior&theme=dracula&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideLabels=A78BFA&dates=A78BFA&text=FFFFFF&hide_border=true"/>
 
 <br><br>
