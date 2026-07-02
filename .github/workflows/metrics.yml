@@ -30,15 +30,11 @@ jobs:
           # Plugin de Linguagens
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
-          
-          # IN-DEPTH: É ISSO QUE RESOLVE O PROBLEMA DAS ORGANIZAÇÕES!
-          plugin_languages_indepth: yes
-          # Aumentamos os limites ao MÁXIMO para forçar a leitura do seu histórico antigo (onde está o PHP)
-          plugin_languages_analysis_timeout: 300
-          plugin_languages_recent_days: 0
-          plugin_languages_recent_load: 2000
+          # DESABILITANDO O IN-DEPTH PARA LER OS REPOSITÓRIOS INTEIROS (TRAZ O PHP DE VOLTA!)
+          # Como o in-depth analisa commits um a um, ele estava parando nos últimos 94 commits e não chegava no seu PHP antigo.
+          # Ao desabilitar, ele lê o tamanho de todos os repositórios (como o GitHub Stats faz), pegando todo o seu histórico.
+          plugin_languages_indepth: no
+          plugin_languages_limit: 10
           plugin_languages_categories: programming
           
           # Estilização CSS para forçar o fundo do Dracula e deixar parecido com os outros cards
