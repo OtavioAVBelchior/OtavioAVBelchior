@@ -35,8 +35,10 @@ jobs:
           
           # IN-DEPTH: É ISSO QUE RESOLVE O PROBLEMA DAS ORGANIZAÇÕES!
           plugin_languages_indepth: yes
-          # Aumentamos o limite para analisar mais repositórios e commits antigos (assim pegamos seu PHP)
-          plugin_languages_analysis_timeout: 120
+          # Aumentamos os limites ao MÁXIMO para forçar a leitura do seu histórico antigo (onde está o PHP)
+          plugin_languages_analysis_timeout: 180
+          plugin_languages_recent_days: 0
+          plugin_languages_recent_load: 1000
           commits_authoring: OtavioAVBelchior, otavioavbelchior@gmail.com
           plugin_languages_categories: programming
           
