@@ -67,9 +67,8 @@ Aplicação desenvolvida em **Laravel 11**, **Filament PHP** e **TailwindCSS** p
 
 <div align="center">
 
-<!-- LADO A LADO: Most Used Languages (Metrics) e Current Streak -->
-<img width="49%" src="https://github.com/OtavioAVBelchior/OtavioAVBelchior/blob/main/github-metrics-languages.svg?raw=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=OtavioAVBelchior&theme=dracula&background=282A36&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideLabels=A78BFA&dates=A78BFA&text=FFFFFF&hide_border=true"/>
+<!-- Most Used Languages (Metrics) -->
+<img width="99%" src="https://github.com/OtavioAVBelchior/OtavioAVBelchior/blob/main/github-metrics-languages.svg?raw=true"/>
 
 <br><br>
 
