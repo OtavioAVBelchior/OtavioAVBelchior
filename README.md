@@ -69,12 +69,12 @@ Aplicação desenvolvida em **Laravel 11**, **Filament PHP** e **TailwindCSS** p
 
 <!-- LADO A LADO: Most Used Languages (Metrics) e Current Streak -->
 <img width="49%" src="https://github.com/OtavioAVBelchior/OtavioAVBelchior/blob/main/github-metrics-languages.svg?raw=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=OtavioAVBelchior&theme=dracula&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideLabels=A78BFA&dates=A78BFA&text=FFFFFF&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=OtavioAVBelchior&theme=dracula&background=282A36&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideLabels=A78BFA&dates=A78BFA&text=FFFFFF&hide_border=true"/>
 
 <br><br>
 
 <!-- EM BAIXO: Activity Graph ocupando a largura total -->
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAVBelchior&theme=dracula&color=A78BFA&hide_border=true"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAVBelchior&theme=dracula&bg_color=282A36&radius=10&color=A78BFA&hide_border=true"/>
 
 </div>
 
