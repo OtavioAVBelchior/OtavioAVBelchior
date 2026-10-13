@@ -1,15 +1,29 @@
 # Otávio Belchior
 
-**Infraestrutura · Segurança da Informação · Desenvolvimento** · São João del-Rei, MG
+**Coordenação de TI · Infraestrutura · Segurança da Informação · Desenvolvimento** · São João del-Rei, MG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-otavioavbelchior-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioavbelchior/)
 [![E-mail](https://img.shields.io/badge/E--mail-otavioavbelchior@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
 
 ---
 
-Trabalho com TI desde os 17 anos, entre infraestrutura, desenvolvimento de sistemas e integrações. Tecnólogo em Cibersegurança, cursando Engenharia de Software, com foco atual em segurança defensiva: análise de ameaças, monitoramento e hardening de ambientes Linux.
+Trabalho com TI desde os 17 anos, entre infraestrutura, desenvolvimento de sistemas e integrações, e hoje coordeno a área de TI de uma indústria. Tecnólogo em Cibersegurança, cursando Engenharia de Software, com foco atual em segurança defensiva: análise de ameaças, monitoramento e hardening de ambientes Linux.
 
 O que trago para segurança é a visão de quem já construiu e opera o que precisa ser protegido: servidores, redes, Active Directory, APIs e um ERP inteiro desenvolvido do zero.
+
+## Stack
+
+| | |
+|:--|:--|
+| **Infra e segurança** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,nginx,docker&theme=dark" height="40" alt="Linux, Ubuntu, Bash, PowerShell, Nginx, Docker" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,ts,express,python,php&theme=dark" height="40" alt="Node.js, TypeScript, Express, Python, PHP" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="40" alt="React, Next.js, HTML, CSS, Tailwind" /> |
+| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="40" alt="PostgreSQL, MySQL, Redis" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" height="40" alt="Git, GitHub, GitHub Actions, VS Code" /> |
+
+**Segurança:** revisão de código · autenticação e sessões · OIDC / Keycloak · Active Directory · LGPD  
+**Integrações:** APIs REST · webhooks · WhatsApp Cloud API · OAuth2 / OIDC  
+**ERP:** TOTVS Protheus (ADVPL)
 
 ## Projetos em produção
 
@@ -36,18 +50,14 @@ ERP próprio desenvolvido do zero para uma indústria, com equipe de 2 desenvolv
 
 **React · TypeScript · PostgreSQL · Keycloak**
 
-## Stack
+## Coordenação de equipe
 
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,githubactions,python,ts,nodejs,php,laravel,react,postgres,mysql&perline=14" alt="Linux, Bash, Nginx, Docker, Git, GitHub Actions, Python, TypeScript, Node.js, PHP, Laravel, React, PostgreSQL, MySQL" />
+Coordeno a TI de uma indústria, com equipe de desenvolvimento e suporte, respondendo direto à diretoria. A área cobre quatro frentes: infraestrutura, helpdesk, ERP próprio e automação de processos.
 
-| | |
-|---|---|
-| **Segurança** | Revisão de código · autenticação e sessões · OIDC / Keycloak · LGPD · Active Directory |
-| **Infraestrutura** | Linux · Nginx · Docker · Active Directory · GitHub Actions |
-| **Backend** | Python · Node.js · TypeScript · PHP / Laravel |
-| **Dados** | PostgreSQL · MySQL · modelagem relacional |
-| **Integrações** | APIs REST · Webhooks · OAuth2 / OIDC |
-| **ERP** | TOTVS Protheus (ADVPL) |
+- **Gestão do time:** dailys, sprints e backlog priorizado com as áreas de negócio
+- **Ritual com a diretoria:** apresentação executiva mensal com entregas, cobertura do ERP e riscos, traduzindo decisão técnica em impacto para quem decide orçamento
+- **Priorização:** roadmap do ERP conduzido com equipe enxuta, protegendo o time de demandas fora do plano
+- **Processo:** fluxos de aprovação desenhados junto às áreas (Compras, Financeiro) e validados com a gestão antes do desenvolvimento, para evitar retrabalho
 
 ## Estudando agora
 
