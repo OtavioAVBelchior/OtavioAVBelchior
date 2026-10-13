@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioavbelchior/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
-[![LeadSync 360](https://img.shields.io/badge/LeadSync_360-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://leadsync360.com.br)
 ![Localização](https://img.shields.io/badge/São_João_del--Rei,_MG-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
