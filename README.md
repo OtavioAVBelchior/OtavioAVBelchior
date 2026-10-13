@@ -1,76 +1,145 @@
-# Otávio Belchior
+<div align="center">
 
-**Coordenação de TI · Infraestrutura · Segurança da Informação · Desenvolvimento** · São João del-Rei, MG
+# Olá, eu sou o Otávio 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-otavioavbelchior-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioavbelchior/)
-[![E-mail](https://img.shields.io/badge/E--mail-otavioavbelchior@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
+### Coordenação de TI · Infraestrutura · Segurança da Informação · Desenvolvimento
+
+*Construo sistemas que rodam em produção e protejo o que construo.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioavbelchior/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioavbelchior@gmail.com)
+[![LeadSync 360](https://img.shields.io/badge/LeadSync_360-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://leadsync360.com.br)
+![Localização](https://img.shields.io/badge/São_João_del--Rei,_MG-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
-Trabalho com TI desde os 17 anos, entre infraestrutura, desenvolvimento de sistemas e integrações, e hoje coordeno a área de TI de uma indústria. Tecnólogo em Cibersegurança, cursando Engenharia de Software, com foco atual em segurança defensiva: análise de ameaças, monitoramento e hardening de ambientes Linux.
+## 🧑‍💻 Sobre mim
 
-O que trago para segurança é a visão de quem já construiu e opera o que precisa ser protegido: servidores, redes, Active Directory, APIs e um ERP inteiro desenvolvido do zero.
+- 🏭 Coordeno a TI de uma indústria: infraestrutura, helpdesk, ERP próprio e automação de processos
+- 🛠️ Desenvolvi do zero sistemas que hoje rodam a operação da empresa: um **ERP** e uma **central de atendimento WhatsApp + CRM**
+- 🛡️ Tecnólogo em **Cibersegurança**, com foco em segurança defensiva (blue team)
+- 🎓 Cursando **Engenharia de Software**
+- 🐧 Usuário de Linux, entusiasta de open source e de automação com IA
+- 💬 Falo sobre: segurança de aplicações, integrações, infraestrutura e Linux
 
-## Stack
+## 🧰 Stack
+
+<div align="center">
+
+**Infra e segurança**<br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,nginx,docker&theme=dark" height="44" alt="Linux, Ubuntu, Bash, PowerShell, Nginx, Docker" />
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,python,php&theme=dark" height="44" alt="Node.js, TypeScript, Express, Python, PHP" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="44" alt="React, Next.js, HTML, CSS, Tailwind" />
+
+**Dados e DevOps**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,githubactions&theme=dark" height="44" alt="PostgreSQL, MySQL, Redis, Git, GitHub, GitHub Actions" />
+
+<br>
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth2 / OIDC](https://img.shields.io/badge/OAuth2_/_OIDC-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-555555?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-009C3B?style=flat-square)
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus_(ADVPL)-1A3A6B?style=flat-square)
+
+</div>
+
+## 📊 Em números
+
+<div align="center">
+
+| 🗓️ **5+ anos** | 🚀 **2 sistemas** | 👥 **Equipe** | 🔐 **Segurança** |
+|:---:|:---:|:---:|:---:|
+| trabalhando com TI | próprios em produção | de dev e suporte sob minha coordenação | auditoria de código e LGPD no dia a dia |
+
+</div>
+
+## 🚀 Projetos em produção
+
+> 🔒 Sistemas corporativos com código privado. Aqui descrevo o problema, a arquitetura e as decisões.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Central de Conversas + CRM
+
+**[LeadSync 360](https://leadsync360.com.br)**
+
+Atendimento comercial via API oficial do WhatsApp, integrado ao CRM. Substituiu uma ferramenta terceira, opera o comercial da empresa e é vendido como produto.
+
+- Sincroniza automações do CRM com a tela de atendimento
+- Templates oficiais Meta e webhooks em tempo real
+- 🔐 Auditoria de segurança, login por convite, sessão httpOnly e papéis de acesso
+- 🗄️ Política de retenção LGPD com base quente e arquivo frio
+
+`Node.js` `TypeScript` `Express` `Next.js` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 ERP interno
+
+**Indústria · em produção**
+
+ERP desenvolvido do zero, com equipe de 2 devs, substituindo processos do TOTVS Protheus.
+
+- Logística e Manutenção concluídos; Compras, Produção, PCP e Controladoria em andamento
+- Fluxos de aprovação ponta a ponta (solicitação → pedido → financeiro)
+- 🔐 Autenticação centralizada com Keycloak (OIDC)
+- 🗺️ Mapa de cobertura por módulo acompanhado mensalmente com a diretoria
+
+`React` `TypeScript` `PostgreSQL` `Keycloak`
+
+</td>
+</tr>
+</table>
+
+## 👥 Coordenação de equipe
+
+Coordeno a TI respondendo direto à diretoria, com equipe de desenvolvimento e suporte.
 
 | | |
 |:--|:--|
-| **Infra e segurança** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,nginx,docker&theme=dark" height="40" alt="Linux, Ubuntu, Bash, PowerShell, Nginx, Docker" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,ts,express,python,php&theme=dark" height="40" alt="Node.js, TypeScript, Express, Python, PHP" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="40" alt="React, Next.js, HTML, CSS, Tailwind" /> |
-| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="40" alt="PostgreSQL, MySQL, Redis" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" height="40" alt="Git, GitHub, GitHub Actions, VS Code" /> |
+| 🔁 **Rotina do time** | Dailys, sprints e backlog priorizado com as áreas de negócio |
+| 📈 **Diretoria** | Apresentação executiva mensal com entregas, cobertura do ERP e riscos |
+| 🎯 **Priorização** | Roadmap conduzido com equipe enxuta, protegendo o time de demandas fora do plano |
+| 🤝 **Processo** | Fluxos desenhados com Compras e Financeiro e validados antes do desenvolvimento |
 
-**Segurança:** revisão de código · autenticação e sessões · OIDC / Keycloak · Active Directory · LGPD  
-**Integrações:** APIs REST · webhooks · WhatsApp Cloud API · OAuth2 / OIDC  
-**ERP:** TOTVS Protheus (ADVPL)
+## 🎓 Formação e certificações
 
-## Projetos em produção
+![Cibersegurança](https://img.shields.io/badge/Tecnólogo-Cibersegurança-1F6FEB?style=flat-square)
+![Engenharia de Software](https://img.shields.io/badge/Bacharelado-Engenharia_de_Software_(cursando)-8957E5?style=flat-square)
+![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code in Action](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square&logo=claude&logoColor=white)
+![Linux Fundamentos](https://img.shields.io/badge/FIAP-Linux_Fundamentos-ED145B?style=flat-square)
+![Cloud Fundamentals](https://img.shields.io/badge/FIAP-Cloud_Fundamentals-ED145B?style=flat-square)
+![Project Management](https://img.shields.io/badge/IBM-Project_Management_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white)
 
-> Sistemas corporativos com código privado. Descrevo arquitetura e decisões; o código não é público.
+## 🧭 Roadmap de estudos
 
-### Central de Conversas WhatsApp + CRM · [LeadSync 360](https://leadsync360.com.br)
-
-Central de atendimento comercial via API oficial do WhatsApp, integrada ao CRM. Substituiu uma ferramenta terceira e hoje opera o atendimento comercial da empresa, além de ser comercializada como produto.
-
-- Sincroniza as automações do CRM (movimentação de etapas e disparos) com a tela de atendimento
-- Templates oficiais aprovados pela Meta, histórico por contato e webhooks inspecionáveis em tempo real
-- **Segurança:** auditoria de código com plano de correção em fases, login próprio com convite de uso único, sessão em cookie httpOnly e papéis de acesso
-- **LGPD e dados:** política de retenção (base quente de 12 meses e arquivo frio comprimido) e expurgo de mídia após o encerramento da negociação
-
-**Node.js · TypeScript · Express · Next.js · React · MySQL · WhatsApp Cloud API · Webhooks**
-
-### ERP interno
-
-ERP próprio desenvolvido do zero para uma indústria, com equipe de 2 desenvolvedores, substituindo processos do TOTVS Protheus. Já em produção, com módulos de Logística e Manutenção concluídos e Compras, Produção, PCP e Controladoria em andamento.
-
-- Fluxos de aprovação ponta a ponta (solicitação → pedido de compra → aprovação financeira)
-- Autenticação centralizada com Keycloak (OIDC)
-- Mapa de cobertura por módulo, usado no acompanhamento mensal com a diretoria
-
-**React · TypeScript · PostgreSQL · Keycloak**
-
-## Coordenação de equipe
-
-Coordeno a TI de uma indústria, com equipe de desenvolvimento e suporte, respondendo direto à diretoria. A área cobre quatro frentes: infraestrutura, helpdesk, ERP próprio e automação de processos.
-
-- **Gestão do time:** dailys, sprints e backlog priorizado com as áreas de negócio
-- **Ritual com a diretoria:** apresentação executiva mensal com entregas, cobertura do ERP e riscos, traduzindo decisão técnica em impacto para quem decide orçamento
-- **Priorização:** roadmap do ERP conduzido com equipe enxuta, protegendo o time de demandas fora do plano
-- **Processo:** fluxos de aprovação desenhados junto às áreas (Compras, Financeiro) e validados com a gestão antes do desenvolvimento, para evitar retrabalho
-
-## Estudando agora
-
-- **SC-200** (Microsoft Security Operations Analyst)
-- **SIEM com Wazuh** em VPS própria, monitorando meus próprios projetos
-- Detecção e resposta: regras, alertas e triagem de incidentes
-- AWS Cloud Practitioner
-
-## Interesses
-
-Blue team · Linux e GNOME · open source · automação · IA aplicada à produtividade
+- [ ] **SC-200** · Microsoft Security Operations Analyst
+- [ ] **SIEM com Wazuh** em VPS própria, monitorando meus projetos
+- [ ] Detecção e resposta: regras, alertas e triagem de incidentes
+- [ ] **AWS Cloud Practitioner**
+- [ ] Repositórios públicos de case com arquitetura e ADRs dos sistemas acima
 
 ---
 
-Aberto a conversas sobre segurança, infraestrutura e Linux.
-Melhor canal: [LinkedIn](https://www.linkedin.com/in/otavioavbelchior/) ou [e-mail](mailto:otavioavbelchior@gmail.com).
+<div align="center">
+
+🛡️ Aberto a conversas sobre **segurança, infraestrutura, integrações e Linux**
+
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioavbelchior/)
+
+</div>
