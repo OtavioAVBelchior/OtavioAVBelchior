@@ -19,7 +19,7 @@
 ## Sobre mim
 
 - Coordeno a TI de uma indústria: infraestrutura, helpdesk, ERP próprio e automação de processos
-- Desenvolvi do zero sistemas que hoje rodam a operação da empresa: um **ERP** e uma **central de atendimento WhatsApp + CRM**
+- Desenvolvi do zero sistemas que hoje rodam a operação da empresa: **central de atendimento WhatsApp + CRM**
 - Tecnólogo em **Cibersegurança**, com foco em segurança defensiva (blue team)
 - Cursando **Engenharia de Software**
 - Usuário de Linux, entusiasta de open source e de automação com IA
